@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\bin\Debug\MiniProyecto01.exe.config
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\bin\Debug\MiniProyecto01.exe
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\bin\Debug\MiniProyecto01.pdb
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\obj\Debug\MiniProyecto01.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\obj\Debug\MiniProyecto01.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\obj\Debug\MiniProyecto01.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\obj\Debug\MiniProyecto01.exe
+C:\Users\hp\source\repos\MiniProyecto01\MiniProyecto01\obj\Debug\MiniProyecto01.pdb
